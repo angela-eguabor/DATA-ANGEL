@@ -7,8 +7,8 @@ This include the Basic hands on training by Incubator_Ng. This has been a realy 
 the Data shall be sourced from variouse platorms including Google.
 ### Tools Used
 - Power BI
-- Ms Excel [**download here**](https://www.microsoft.com/en-us/microsoft-365/excel)
-- STATA
-- PYTHON
+- Ms Excel for Data cleaning [**download here**](https://www.microsoft.com/en-us/microsoft-365/excel)
+- STATA [**Download here**](https://download.stata.com/download/)
+- PYTHON [**Download here**](https://www.python.org/downloads/)
 
 
